@@ -1,4 +1,3 @@
-# You-Lose
 Privacy Policy — You Lose
 Last updated: June 25, 2026
 Overview
@@ -18,4 +17,4 @@ Because we collect no data, there is no user data to secure, breach, or mishandl
 Changes to This Policy
 If this privacy policy changes in the future, the updated version will be posted at this URL with a revised date at the top. Continued use of the app after any changes constitutes acceptance of the updated policy.
 Contact
-If you have any questions about this privacy policy, please contact us at:
+If you have any questions about this privacy policy, please contact us at: crotinger13@gmail.com
