@@ -1,0 +1,23 @@
+{
+  "name": "You Lose",
+  "short_name": "You Lose",
+  "description": "A Rock Paper Scissors game you will never win.",
+  "start_url": "/You-Lose/",
+  "scope": "/You-Lose/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
